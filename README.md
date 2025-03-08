@@ -1,4 +1,5 @@
 PREDICTING-MACHINE-FAILURE-IN-ADVANCE
+
 Overview:
   This project, assigned by Coratia Technologies as part of my Data Science internship, focuses on predictive maintenance—a crucial aspect of modern industrial operations. Equipment failure in industries can lead to unexpected downtimes, costly repairs, and significant productivity losses. By leveraging machine learning and data-driven insights, this project aims to predict failures before they occur, enabling proactive maintenance and optimizing machine efficiency.
 
